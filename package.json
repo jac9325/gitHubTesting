@@ -1,0 +1,25 @@
+{
+  "name": "githubtesting",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jac9325/gitHubTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jac9325/gitHubTesting/issues"
+  },
+  "homepage": "https://github.com/jac9325/gitHubTesting#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.17.9",
+    "jest": "^28.0.3"
+  }
+}
